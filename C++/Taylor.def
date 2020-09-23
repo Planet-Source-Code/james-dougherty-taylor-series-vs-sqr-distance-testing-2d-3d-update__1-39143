@@ -1,0 +1,7 @@
+LIBRARY   Taylor
+ 
+EXPORTS
+TaylorDistance2DC @1
+TaylorDistance3DC @2
+SqrDistance2DC    @3
+SqrDistance3DC    @4
